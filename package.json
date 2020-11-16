@@ -1,0 +1,27 @@
+{
+  "name": "serverless-stack-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "create.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NayeemUrRehman/serverless-stack-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NayeemUrRehman/serverless-stack-api/issues"
+  },
+  "homepage": "https://github.com/NayeemUrRehman/serverless-stack-api#readme",
+  "devDependencies": {
+    "aws-sdk": "^2.792.0",
+    "serverless-bundle": "^4.0.1",
+    "serverless-dotenv-plugin": "^3.1.0"
+  },
+  "dependencies": {
+    "uuid": "^7.0.3"
+  }
+}
